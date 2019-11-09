@@ -10,6 +10,6 @@ int main()
     printf("Reversed string is ");
     for(i=n-1;i>=0;i--)
     {
-       printf("%c",str[i]);
+       printf("%c",a[i]);
     }
 }
